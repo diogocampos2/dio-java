@@ -8,5 +8,7 @@ public class TipoDados {
         double salario = 1275.33;
 
         final float VALOR = 5.14F; // Constante
+
+        String nome = "Diogo";
     }
 }
