@@ -9,6 +9,6 @@ public class TipoDados {
 
         final float VALOR = 5.14F; // Constante
 
-        String nome = "Diogo";
+        String nome = "Diogo Campos";
     }
 }
