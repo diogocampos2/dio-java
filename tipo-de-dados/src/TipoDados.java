@@ -6,5 +6,7 @@ public class TipoDados {
         long cpf = 98765432109L; //se começar com 0, deve se usar o tipo String.
         float pi = 3.14F;
         double salario = 1275.33;
+
+        final float VALOR = 5.14F; // Constante
     }
 }
